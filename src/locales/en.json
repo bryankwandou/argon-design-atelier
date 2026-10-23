@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "modules": "Core Modules",
+    "capabilities": "Capabilities",
+    "showcase": "Case Studies",
+    "simulator": "Atelier Lab",
+    "manifest": "Philosophy",
+    "contact": "Partnership",
+    "cta": "Initiate Partnership"
+  },
+  "loader": {
+    "title": "Antigravity Argon Atelier",
+    "subtitle": "Initializing Enterprise Spatial Design Systems",
+    "percentage": "00"
+  },
+  "hero": {
+    "badge": "ANTIGRAVITY ARGON ATELIER // ENTERPRISE IT SPATIAL SYSTEMS",
+    "headlinePrefix": "Where Autonomous Intelligence Meets",
+    "headlineHighlight": "120fps Spatial Design.",
+    "subheadline": "A private design engineering atelier for high-reliability IT enterprises, fintech leaders, and modern AI platforms. We engineer tokenized design systems, distributed topology canvases, and autonomous multi-agent consoles with uncompromising precision.",
+    "ctaPrimary": "Initiate Design Partnership",
+    "ctaSecondary": "Explore Engineering Specs",
+    "statFps": "120 FPS Canvas Rendering Loop",
+    "statSecurity": "Zero-Trust Tokenized Architecture",
+    "statAgents": "Autonomous Multi-Agent Core",
+    "statWcag": "WCAG 2.1 AA Compliance"
+  },
+  "modules": {
+    "tag": "Module Architecture",
+    "title": "Four Pillars of Mission-Critical Interfaces",
+    "description": "Engineered with strict design tokens, decoupled render pipelines, and zero-reflow execution for mission-critical enterprise environments.",
+    "tabSpatial": "Spatial Office Canvas",
+    "tabTokens": "Tokenized Design System",
+    "tabKinetic": "Kinetic Micro-Interactions",
+    "tabDag": "Autonomous Multi-Agent DAG",
+    "latency": "Render Latency",
+    "memory": "Memory Budget",
+    "standard": "Design Standard",
+    "status": "Verification Status"
+  },
+  "simulator": {
+    "tag": "Interactive Atelier Lab",
+    "title": "Real-Time Visual Parameter Laboratory",
+    "description": "Adjust spatial render variables, lattice density, and color tokens below to observe live canvas adaptation at 60/120 FPS in real time.",
+    "controlFps": "Target FPS Ceiling",
+    "controlTheme": "Architectural Palette",
+    "controlDensity": "Spatial Mesh Density",
+    "themeObsidian": "Obsidian Cyber",
+    "themeSlate": "Deep Slate",
+    "themeTitanium": "Warm Titanium",
+    "themeAlabaster": "Alabaster Light",
+    "reset": "Reset Default"
+  },
+  "showcase": {
+    "tag": "Engineering Records",
+    "title": "Battle-Tested Enterprise Solutions",
+    "description": "A portfolio of mission-critical interface architectures custom-engineered for modern tech enterprises demanding extreme telemetry throughput and scale.",
+    "viewDetails": "Inspect Architecture",
+    "case1Title": "Zero-Trust FinTech Telemetry Portal",
+    "case1Category": "Finance & Cryptographic Security",
+    "case1Desc": "High-throughput transaction processing console with 120ms cryptographic signature attestation and strict role isolation boundaries.",
+    "case2Title": "Autonomous Cloud Topology Command",
+    "case2Category": "Infrastructure & Cloud Native",
+    "case2Desc": "Multi-region Kubernetes & Cloud Run topology visualizer with real-time interactive canvas and automated latency anomaly alerts.",
+    "case3Title": "Partitioned Data Lakehouse Interface",
+    "case3Category": "Big Data & Real-Time Analytics",
+    "case3Desc": "High-velocity streaming event interface handling millions of event records per second with sub-microsecond cursor updates and zero DOM thrashing.",
+    "case4Title": "Antigravity Argon Multi-Agent Console",
+    "case4Category": "AI Multi-Agent Systems",
+    "case4Desc": "10-specialist floor operations command center with OpenAI Dots DAG wire scheduler, Grok Council consensus audit, and instant artifact generation."
+  },
+  "manifest": {
+    "tag": "Design Philosophy",
+    "quote": "Software design is not cosmetic decoration applied after engineering is complete. Design is the fundamental interface between human intent and machine execution.",
+    "author": "Antigravity Argon Architectural Directorate",
+    "role": "2026 Spatial Interface Engineering Standard"
+  },
+  "partnership": {
+    "tag": "Initiate Engagement",
+    "title": "Partner with Antigravity Argon",
+    "description": "We accept select partnerships for enterprise IT design system overhauls, high-throughput SaaS platforms, and spatial multi-agent consoles.",
+    "nameLabel": "Lead Representative Full Name",
+    "namePlaceholder": "e.g., Jonathan Vance",
+    "emailLabel": "Corporate / Enterprise Email",
+    "emailPlaceholder": "name@it-enterprise.com",
+    "companyLabel": "Company / IT Organization Name",
+    "companyPlaceholder": "e.g., Apex Distributed Systems",
+    "scopeLabel": "Design & Engineering Scope",
+    "scopeDesignSystem": "Enterprise Design System (Design Tokens & UI Kit)",
+    "scopeSpatial": "2.5D Spatial Dashboard & Telemetry Monitoring",
+    "scopeMultiAgent": "AI Multi-Agent Orchestration & DAG Console",
+    "scopeFullstack": "Full-Stack Interface Modernization & Re-Architecture",
+    "messageLabel": "Project Brief & Requirements",
+    "messagePlaceholder": "Describe your product goals, deployment timeline, and technical constraints...",
+    "submit": "Submit Partnership Proposal",
+    "submitting": "Transmitting Data...",
+    "successTitle": "Partnership Proposal Received",
+    "successDesc": "The Antigravity Argon architectural team has received your brief. A formal response with architectural scoping will be delivered to your corporate inbox within 24 business hours."
+  },
+  "footer": {
+    "copyright": "2026 Antigravity Argon Atelier. All architectural rights reserved.",
+    "uptime": "All Systems 100% Operational · Edge Latency 0.4ms",
+    "tagline": "Private Enterprise IT Design & Spatial Interface Atelier"
+  }
+}

@@ -1,0 +1,61 @@
+:root {
+  --color-bg: #09090b;
+  --color-bg-elevated: #111116;
+  --color-bg-surface: #171821;
+  --color-bg-subtle: #20222e;
+
+  --color-fg: #f4f4f7;
+  --color-fg-muted: #9496a8;
+  --color-fg-faint: #595b6d;
+
+  --color-accent: #00f2fe;
+  --color-accent-subtle: rgba(0, 242, 254, 0.12);
+  --color-accent-glow: rgba(0, 242, 254, 0.28);
+
+  --color-line: rgba(255, 255, 255, 0.08);
+  --color-line-strong: rgba(255, 255, 255, 0.16);
+
+  --color-emerald: #10b981;
+  --color-amber: #f59e0b;
+  --color-cyan: #06b6d4;
+  --color-purple: #a855f7;
+}
+
+html.light {
+  --color-bg: #f8f9fa;
+  --color-bg-elevated: #ffffff;
+  --color-bg-surface: #edf0f5;
+  --color-bg-subtle: #e2e5ee;
+
+  --color-fg: #0d0e12;
+  --color-fg-muted: #525566;
+  --color-fg-faint: #8a8d9e;
+
+  --color-accent: #0284c7;
+  --color-accent-subtle: rgba(2, 132, 199, 0.1);
+  --color-accent-glow: rgba(2, 132, 199, 0.25);
+
+  --color-line: rgba(0, 0, 0, 0.08);
+  --color-line-strong: rgba(0, 0, 0, 0.16);
+
+  --color-emerald: #059669;
+  --color-amber: #d97706;
+  --color-cyan: #0891b2;
+  --color-purple: #9333ea;
+}
+
+/* Subtle Film Grain Texture Overlay */
+.grain-overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 99;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Custom Selection */
+::selection {
+  background: var(--color-accent);
+  color: #09090b;
+}

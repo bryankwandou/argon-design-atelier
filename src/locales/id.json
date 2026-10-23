@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "modules": "Modul Inti",
+    "capabilities": "Kapabilitas",
+    "showcase": "Studi Kasus",
+    "simulator": "Atelier Lab",
+    "manifest": "Filosofi",
+    "contact": "Kemitraan",
+    "cta": "Inisiasi Kemitraan"
+  },
+  "loader": {
+    "title": "Antigravity Argon Atelier",
+    "subtitle": "Menginisialisasi Sistem Desain Spasial Enterprise",
+    "percentage": "00"
+  },
+  "hero": {
+    "badge": "ANTIGRAVITY ARGON ATELIER // SISTEM DESAIN SPASIAL ENTERPRISE",
+    "headlinePrefix": "Di Mana Kecerdasan Otonom Bertemu",
+    "headlineHighlight": "Desain Spasial 120fps.",
+    "subheadline": "Atelier rekayasa desain antarmuka bagi perusahaan teknologi, perbankan, dan ekosistem AI modern. Kami merancang sistem desain tokenized, visualisasi topologi terdistribusi, dan pusat komando multi-agen dengan presisi mutlak.",
+    "ctaPrimary": "Mulai Kemitraan Desain",
+    "ctaSecondary": "Jelajahi Spesifikasi",
+    "statFps": "120 FPS Rendering Canvas",
+    "statSecurity": "Sistem Tokenized Zero-Trust",
+    "statAgents": "Arsitektur Multi-Agen Otonom",
+    "statWcag": "Kepatuhan WCAG 2.1 AA"
+  },
+  "modules": {
+    "tag": "Arsitektur Modul",
+    "title": "Empat Pilar Antarmuka Masa Depan",
+    "description": "Setiap komponen dirancang dengan kontrak token ketat, pemisahan layer render, dan eksekusi bebas lag untuk lingkungan kerja mission-critical.",
+    "tabSpatial": "Canvas Kantor Spasial",
+    "tabTokens": "Sistem Desain Tokenized",
+    "tabKinetic": "Mikro-Interaksi Kinetik",
+    "tabDag": "Orkestrasi Multi-Agen DAG",
+    "latency": "Latensi Render",
+    "memory": "Alokasi Memori",
+    "standard": "Standar Desain",
+    "status": "Status Verifikasi"
+  },
+  "simulator": {
+    "tag": "Atelier Lab Interaktif",
+    "title": "Eksperimen Parameter Desain Real-Time",
+    "description": "Sesuaikan variabel visual, densitas partikel, dan palet warna di bawah ini untuk melihat adaptasi canvas spasial secara langsung pada 60/120 FPS.",
+    "controlFps": "Batas Target FPS",
+    "controlTheme": "Palet Warna Arsitektur",
+    "controlDensity": "Densitas Jaringan Spasial",
+    "themeObsidian": "Obsidian Cyber",
+    "themeSlate": "Deep Slate",
+    "themeTitanium": "Titanium Hangat",
+    "themeAlabaster": "Alabaster Light",
+    "reset": "Reset Default"
+  },
+  "showcase": {
+    "tag": "Rekam Jejak Proyek",
+    "title": "Solusi Enterprise yang Telah Teruji",
+    "description": "Portofolio arsitektur antarmuka digital yang dibangun khusus untuk korporasi teknologi dengan kebutuhan telemetri dan skalabilitas tinggi.",
+    "viewDetails": "Periksa Arsitektur",
+    "case1Title": "Portal Telemetri FinTech Zero-Trust",
+    "case1Category": "Finansial & Keamanan Data",
+    "case1Desc": "Dasbor pemrosesan transaksi berkecepatan tinggi dengan verifikasi tanda tangan kriptografis 120ms dan pemisahan role perbankan.",
+    "case2Title": "Pusat Komando Topologi Cloud Otonom",
+    "case2Category": "Infrastruktur & Cloud Native",
+    "case2Desc": "Visualisasi kluster Kubernetes multi-region dengan canvas interaktif real-time dan deteksi anomali latensi otomatis.",
+    "case3Title": "Antarmuka Partisi Data Lakehouse",
+    "case3Category": "Big Data & Analisis Real-Time",
+    "case3Desc": "UI streaming event berkapasitas jutaan event per detik dengan pelacakan kursor mikro-detik dan zero reflow.",
+    "case4Title": "Konsol Multi-Agen Antigravity Argon",
+    "case4Category": "AI Multi-Agent Systems",
+    "case4Desc": "Ruang kendali 10 agen spesialis dengan OpenAI Dots DAG scheduling, musyawarah Dewan Grok, dan rilis artefak instan."
+  },
+  "manifest": {
+    "tag": "Filosofi Desain",
+    "quote": "Desain perangkat lunak bukanlah dekorasi kosmetik yang ditempelkan setelah rekayasa selesai. Desain adalah antarmuka paling fundamental antara kehendak manusia dan eksekusi mesin.",
+    "author": "Direktorat Arsitektur Antigravity Argon",
+    "role": "Standar Rekayasa Antarmuka Spasial 2026"
+  },
+  "partnership": {
+    "tag": "Inisiasi Kerjasama",
+    "title": "Bermitra dengan Antigravity Argon",
+    "description": "Kami menerima kemitraan eksklusif untuk perancangan ulang sistem desain korporasi teknologi, platform SaaS enterprise, dan konsol AI spasial.",
+    "nameLabel": "Nama Lengkap Penanggung Jawab",
+    "namePlaceholder": "Contoh: Michael Prakoso",
+    "emailLabel": "Email Korporat / Institusi",
+    "emailPlaceholder": "nama@perusahaan-it.com",
+    "companyLabel": "Nama Perusahaan / Organisasi IT",
+    "companyPlaceholder": "PT Solusi Teknologi Nusantara",
+    "scopeLabel": "Lingkup Kebutuhan Desain",
+    "scopeDesignSystem": "Pembangunan Sistem Desain Enterprise (Design Tokens & UI Kit)",
+    "scopeSpatial": "Dasbor Spasial 2.5D & Pemantauan Telemetri Real-Time",
+    "scopeMultiAgent": "Antarmuka Orkestrasi AI Multi-Agen & Workflow DAG",
+    "scopeFullstack": "Modernisasi Penuh Antarmuka & Re-Architecture Web",
+    "messageLabel": "Ringkasan Kebutuhan Proyek",
+    "messagePlaceholder": "Jelaskan target produk, jadwal rilis, atau kebutuhan integrasi sistem perusahaan Anda...",
+    "submit": "Kirim Proposal Kemitraan",
+    "submitting": "Mengirimkan Data...",
+    "successTitle": "Proposal Kemitraan Diterima",
+    "successDesc": "Tim arsitektur Antigravity Argon telah menerima rincian kebutuhan Anda. Respon resmi beserta spesifikasi awal akan dikirimkan ke email korporat Anda dalam 24 jam kerja."
+  },
+  "footer": {
+    "copyright": "2026 Antigravity Argon Atelier. Seluruh hak cipta arsitektur dilindungi.",
+    "uptime": "Sistem Operasional 100% · Latensi Edge 0.4ms",
+    "tagline": "Atelier Khusus Sistem Desain & Rekayasa Antarmuka Enterprise"
+  }
+}
